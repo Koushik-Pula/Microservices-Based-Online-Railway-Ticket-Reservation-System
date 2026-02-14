@@ -1,0 +1,48 @@
+Microservices-Based Online Railway Ticket Reservation System
+------------------------------------------------------------
+
+Backend Technologies
+--------------------
+- Java 17
+- Spring Boot 3.x
+- Spring Cloud
+- Spring Cloud Netflix Eureka (Service Registry)
+- Spring Cloud Config Server
+- Spring Cloud Gateway (API Gateway)
+- Spring Security
+- JWT (JSON Web Token)
+- Spring Data JPA
+- Hibernate
+- Maven
+
+Databases
+---------
+- PostgreSQL
+- Separate database per microservice
+
+Frontend Technologies
+---------------------
+- React
+- TypeScript
+- Vite
+
+DevOps & Tools
+--------------
+- Git & GitHub
+- Docker
+- Docker Compose
+
+Architecture & Concepts
+-----------------------
+- Microservices Architecture
+- RESTful APIs
+- Service Discovery
+- Centralized Configuration
+- API Gateway Pattern
+- Role-Based Authentication
+- Independent Deployment of Services
+
+Operating System & Environment
+-------------------------------
+- Windows 11
+- Java Development Kit (JDK 17)
